@@ -20,8 +20,8 @@
 
     <el-row  class="row-bg nes-container with-title is-rounded" justify="center">
       <h3 class="title">Calamari Network</h3>
-      <p>255 DAO is officially shortlisted as a Calamari Network collator <br>
-        Node info coming soon...
+      <p>255 DAO is proud to be one of the first batch of community collators of Calamari Network. <br>
+        Collator address: <a href="https://calamari.subscan.io/validator/dmvvqrfK5AUYH294zTCCiimJRV7CQDDQyC7RAkd5aZgUn9S6f">dmvvqrfK5AUYH294zTCCiimJRV7CQDDQyC7RAkd5aZgUn9S6f</a>
       </p>
     </el-row>
 
